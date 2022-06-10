@@ -7,29 +7,29 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Portfolio Laura
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Laura Carlota Loyola Perezagua
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca poder mostrar parte de mi trabajo, por lo que encontrarás trabajos tanto de dibujo, como de pintura o ilustraciones en digital.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  portfolio
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px tamaño 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Hippani
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 22,1MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 10/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -43,8 +43,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
-
+Inicia con una pequeña animación con fondo infinito, posteriormente puedes acceder a al menú y desde el menú al resto de las pestañas, con la tecla A vuelves a menú y con la tecla D vas directamnete a la página de contacto.
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
@@ -55,6 +54,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![Esquema de navegación](https://user-images.githubusercontent.com/107278459/173154268-c0b46856-f4d9-4087-8335-de96da5adcfb.jpg)
 
 
 
@@ -73,20 +73,20 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- https://ideakreativa.net/34-portafolios-brillante-de-diseno-para-inspirarte/
+- https://www.awwwards.com/20-portfolios-de-diseno-web-para-buscar-inspiracion.html
 
 
 
 **Motivación de la propuesta** 
 
 Este  proyecto es interesante porque ... 
-
+En este proyecto he intentado hacer un portfolio límpio y claro en el que pueda dejar registrado una parte de mis trabajos. Mi intención no es tanto darme a conocer con él sino poder compartir parte de lo que hago.
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
+- Me gustaría que fuera cualquier tipo de persona tanto con o sin inquietudes artísticas  a las que le pueda llamar la atención o picar la curiosidad.
 
 
 
@@ -95,26 +95,26 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Al ser un portfolio creo que es bastante intuitivo saber como funciona por lo que no he realizado ningún tipo de instrucciones.
+- He incluido un videotutorisl de como montsr un lienzo por lo práctico que puede lllegar a ser saber esto para las personas que aún esten aprendiendo o que no sepan como hacerlo.
+- He colocado flechas para que a la hora de cambiar de imagen en cualquiera de las galerias pueda ser de nuevo algo bastante intuitivo, he colocado un boton para que puedas volver fácilmente a menu desde caulquier parte del dossier y esto mismo también lo puedes hacer mediante la tecla A para hacerlo más rápido. 
+- Sacando a relucir el tema de algunos de los botones del teclado, como ya he mencionado la tecla A nos llevaría de nuevo al menú principal y la tecla D nos llevaría rápidamente a la página de contacto.
+- 
 
 
 
 ### Etapa 3: Problemas identificados
 
 (que consideras que no  funciona correctamente y por qué )
-
+He tenido varios problemas a la hora de exportar el archivo y en la parte de la música que sería como la parte de la configuración he puesto y revisado el código varias veces y no se por qué motivo no funciona si antes si lo hacía. Por otra parte la tecla D en un principio no me funcionaba pero lo conseguí solucionar. 
+Luego he tenido problemas personales ya que me puse mala con placas y no pude asisir a dos de sus clases, por otro lado esto me coinció con que se me había acabado el mes de prueba gratuita por lo que no pude avanzar. Me descargué la versión gratuita pero no me iban ciertas partes del trabajo por lo que tuve que ir a la sala de ordenadores de la universidad pero me pasó varias veces en tres ordenadores diferentes que antes de guardarlo el archivo se me reiniciaba y perdía todo lo que había avanzado.
 
 
 # 4. Conclusiones 
 
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
-
-
+Creo que uno de los mayores errores que he cometido ha sido en la propia decisión de hacer un porfolio ya que considero que me habría sido mucho más entretenido haber hecho un juego, creo que hay varias cosas de las explicaciones de clase que se podían llevar mejor a la hora de meterlo en un jueg que en un portfolio. He intentado hacer un portfolio que se lea claramente pero siento que he hecho algo que desde fuera puede verse aburrido o soso, espero que no sea así ya que me he intentado esforxar en hacerlo algo medianamente entretenido.
 
 
 
@@ -127,10 +127,10 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
+* Musica:  he cogido cnaciones instrumentales de diferentes artistas.
+* Imágenes: he cogido distintas imágenes de trabajos propios 
 * Tipografía
-
+Times New Roman
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
